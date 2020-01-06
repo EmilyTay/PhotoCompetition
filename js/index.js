@@ -25,3 +25,20 @@ function loadRandomImage() {
 $(function () {
     loadRandomImage();
 });
+
+
+
+
+
+
+
+
+// function listenToButtons() {
+//     $(".voting-button.vote-up").click(function() {
+//         $(".page-title").first().text("love it!")
+//     });
+    
+//     $(".voting-button.vote-down").click(function() {
+//         $(".page-title").first().text("hate it!")
+//     });
+// }
